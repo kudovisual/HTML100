@@ -1,0 +1,14 @@
+.error {
+    font-family: Fredoka;
+    font-size: 40px;
+    background-color: #0584d2;
+    margin: 0;
+    background-size: 60px;
+}
+.reason {
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #0584d2;
+    margin: 0;
+    background-size: 60px;
+}
